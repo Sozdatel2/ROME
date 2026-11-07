@@ -1,0 +1,4 @@
+ITA_roman_empire = {
+    color = rgb { 120 20 20 }
+    color_ui = rgb { 120 20 20 }
+}
